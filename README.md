@@ -55,5 +55,9 @@ Our original model used pytorch's SGD optimizer. From our experimentation, we ch
 ### Model Results
 Making these new changes resulted in accuracy improvements for all three of our models, as they all depend on the CNN model. CNN accuracy increased from 93.98% to 98.12% due to architectural improvements. Random Forest accuracy improved from 95.81% to 98.56%, and SVM accuracy rose from 94.28% to 96.05%.
 
+### Credits
+
+Rafey Malik: Random Forest model
+Rafik Manla Hassan: SVM model
 
 
