@@ -58,6 +58,7 @@ Making these new changes resulted in accuracy improvements for all three of our 
 ### Credits
 
 Rafey Malik: Random Forest model
+
 Rafik Manla Hassan: SVM model
 
 
